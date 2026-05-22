@@ -102,7 +102,7 @@ export const services = [
     fullDesc: 'We coordinate schedules, teams, quality standards, and project reporting to keep delivery organized and aligned with client expectations.',
     image: ceoImage,
     alt: 'Project Management by Spatrack CEO',
-    imagePosition: 'center 30%',
+    imagePosition: 'center 18%',
   },
 ]
 
